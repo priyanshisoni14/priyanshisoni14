@@ -21,7 +21,7 @@ My work spans frontend interfaces, backend APIs, databases, and event-driven sys
 ## Tech Stack
 
 **Languages**  
-JavaScript · Python · C++ · Java
+JavaScript · Python · C++ · Java · TypeScript 
 
 **Frontend**  
 React · Next.js · HTML · CSS · Tailwind CSS
@@ -36,6 +36,7 @@ MongoDB · PostgreSQL · MySQL
 Git · GitHub · VS Code
 
 ---
+
 
 ## Selected Work
 
