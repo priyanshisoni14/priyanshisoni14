@@ -74,19 +74,6 @@ A real-time messaging platform with media sharing and online presence indicators
 **Tech:** React, Node.js, MongoDB, Socket.io, Cloudinary  
 **Repository:** https://github.com/priyanshisoni14/AuraChat
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshisoni14&show_icons=true&hide_title=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshisoni14&layout=compact&hide_border=true" height="150" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshisoni14&hide_border=true" />
-</p>
 
 ---
 
